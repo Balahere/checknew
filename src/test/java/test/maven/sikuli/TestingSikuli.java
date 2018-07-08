@@ -35,7 +35,7 @@ static WebDriver driver;
 		screen.click();
 		Thread.sleep(1000);
 		screen.click(clickrun);
-		
+		System.out.println("testing git");
 		
 		
 	
